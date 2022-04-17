@@ -5,4 +5,4 @@
 
 Testing my dashboard
 
-![Dashboard_screenshot](Screenshots/SS1.png)
+![Dashboard_screenshot](Screenshots/SS1.PNG)
