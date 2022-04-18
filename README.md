@@ -1,6 +1,6 @@
 # PROJECTS
 ## TEDTALKS DATA VISUALIZATION:
-![Dashboard_screenshot](Screenshots\ss1.PNG)
+![Dashboard_screenshot](Screenshots/ss1.PNG)
 
 ![Dashboard_screenshot](Screenshots/ss2.PNG)
 
