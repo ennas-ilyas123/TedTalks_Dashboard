@@ -9,4 +9,4 @@
 <br> Top speaker was **Alex Gandler** with **5.7M** likes and **187M** views.
 
 ## EMPLOYEE DATA VISUALIZATION:
-![Dashboard_screenshot](Screenshots\ss3.PNG)
+![Dashboard_screenshot](Screenshots/ss3.PNG)
